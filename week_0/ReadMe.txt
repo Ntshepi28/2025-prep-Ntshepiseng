@@ -6,7 +6,7 @@
 This week i was learning GitLab Essential Course. I focused on getting familiar with Git basics, GitLab workflows, 
 and understanding how version control systems help manage and track changes in a project.
 
-It was a very practical week, and although I faced a few challenges along the way, 
+It was a very theorical week, and although I faced a few challenges along the way, 
 I really enjoyed exploring the different parts of GitLab, especially the CI/CD pipeline session.
 
 2.What I Covered this week
